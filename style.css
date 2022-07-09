@@ -39,3 +39,41 @@
     color: white;
     font-size: 25px;
 }
+
+.text-section{
+
+    display: flex;
+    margin-top: 150px;
+}
+
+.first-photo{
+
+    height: 300px;
+    width: 350px;
+    margin-left: 300px;
+    display: block;
+    border-radius: 5px;
+    
+}
+
+
+.pera2{
+ 
+    padding-top: 30px;
+    color: black;
+    font-size: 20px;
+    padding-left: 170px;
+}
+
+
+.header-section1{
+
+    padding-top: 45px;
+    color: black;
+    font-size: 45px;
+    padding-left: 170px;
+}
+
+.setup-text{
+
+}
