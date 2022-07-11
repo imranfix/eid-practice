@@ -2,6 +2,10 @@
     margin: 0;
 }
 
+body{
+    
+}
+
 .first-header{
 
     background-image: url(image/photo10.jpg);
@@ -16,7 +20,7 @@
 
     padding-top: 150px;
     color: white;
-    font-size: 45px;
+    font-size: 48px;
     padding-left: 170px;
 }
 
@@ -31,6 +35,7 @@ span{
     font-size: 20px;
     padding-left: 170px;
     color: white;
+    font-family: 'Fasthand', cursive;
 }
 
 .first-btn{
@@ -68,6 +73,7 @@ span{
     color: lightslategray;
     font-size: 20px;
     padding-left: 170px;
+    font-family: 'Fasthand', cursive;
 
 }
 
@@ -175,9 +181,8 @@ span{
     border-radius: 5px;
     padding-right: 10px;
     margin-left: 160px;
-   
     opacity: 0.9;
-
+   
 }
 
 .jamela{
@@ -185,6 +190,7 @@ span{
     padding: 1px 10px;
     border-radius: 5px;
     margin-left: 30px;
+ 
    
 }
 
@@ -254,6 +260,8 @@ span{
     background-color: rgb(1, 1, 22);
     padding: 25px;
     color: tomato;
+    font-family: 'Lobster Two', cursive;
+    
 }
 
 .white{
