@@ -8,8 +8,8 @@
     height: 600px;
     background-size: cover;
     background-repeat: no-repeat;
-    opacity: 0.8;
-    opacity: 0.8;
+    opacity: 0.9;
+    opacity: 0.9;
 }
 
 .header-section{
@@ -20,12 +20,17 @@
     padding-left: 170px;
 }
 
+span{
+    color: green;
+}
+
 .pera1{
  
     padding-top: 30px;
     color: white;
     font-size: 20px;
     padding-left: 170px;
+    color: white;
 }
 
 .first-btn{
@@ -60,9 +65,10 @@
 .pera2{
  
     padding-top: 30px;
-    color: black;
+    color: lightslategray;
     font-size: 20px;
     padding-left: 170px;
+
 }
 
 
@@ -114,9 +120,19 @@
     padding: 40px 55px;
 }
 
+.center33{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 35px;
+    color: black;
+}
+
+
 .center{
     text-align: center;
     margin-top: 40px;
+    font-size: 20px;
+    color: lightslategray;
 }
 
 .position1{
@@ -185,3 +201,64 @@
     color: lightslategrey;
 }
 
+.info{
+
+    display: flex;
+   
+   
+}
+
+.fit-img{
+
+    height: 180px;
+    width: 300px;
+    margin-top: 30px;  
+    padding: 10px 2px;
+    
+                        
+}
+
+
+
+.fit1{
+
+    columns: lightslategrey;
+    font-size: 20px;
+    margin-top: 10px;
+    color: lightslategray;
+
+}
+
+.tension{
+
+    margin-left: 100px;
+    box-shadow: 10px 30px 40px lightslategray;
+    margin-top: 45px;
+    padding: 10px 27px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px; 
+    }
+
+.new11{
+
+    margin-top: 20px;
+    color: tomato;
+    border-bottom: 1px;
+    border: none;
+}
+
+.end22{
+
+    text-align: center;
+    margin-top: 80px;
+    background-color: rgb(1, 1, 22);
+    padding: 25px;
+    color: tomato;
+}
+
+.white{
+
+    color: lightslategray;
+    font-size: 20px;
+    margin-top: 10px;
+}
